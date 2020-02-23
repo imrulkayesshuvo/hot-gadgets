@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 }
 .nav-menu a{
     color:grey;
@@ -23,3 +23,17 @@
 .carousel-indicators li{
     background-color:rgb(15, 2, 2);
 }
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 10px 10px;
+    text-align: center;
+}
+.card img{
+    width:200px;
+    padding-top: 10px;
+}
+.card-footer{
+    border-top:none;
+    background-color: white;
