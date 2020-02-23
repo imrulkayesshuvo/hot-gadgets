@@ -1,0 +1,8 @@
+.nav-menu a{
+    color:grey;
+}
+.nav-menu a:hover{
+    color:darkturquoise;
+    background-color: dimgrey;
+    border-radius: 5px;
+}
