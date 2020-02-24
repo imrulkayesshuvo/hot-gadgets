@@ -48,3 +48,37 @@
 .phone{
     margin-bottom: 20px;
 }
+.category{
+    height: 300px;
+}
+.category img{
+    width: 100%;
+}
+.ct-h1{
+    text-align: center;
+}
+.bag{
+    margin-right:20px;
+    text-align: center;
+    border: none;
+    padding: 20px 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.shoes{
+    border: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+.bty{
+    text-align: center;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
