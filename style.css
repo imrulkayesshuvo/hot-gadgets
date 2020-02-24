@@ -18,7 +18,7 @@
     border:none;
 }
 .carousel-item{
-    padding: 20px 40px;
+    padding: 20px 2px;
 }
 .carousel-indicators li{
     background-color:rgb(15, 2, 2);
@@ -34,6 +34,17 @@
     width:200px;
     padding-top: 10px;
 }
+.card h3,h5{
+    font-weight: 700;
+}
+.card p{color:grey;}
 .card-footer{
     border-top:none;
     background-color: white;
+}
+.see-all{
+    color: orange;
+}
+.phone{
+    margin-bottom: 20px;
+}
