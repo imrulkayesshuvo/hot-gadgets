@@ -44,6 +44,8 @@
 }
 .see-all{
     color: orange;
+    padding-right: 10px;
+    text-decoration: none;
 }
 .phone{
     margin-bottom: 20px;
